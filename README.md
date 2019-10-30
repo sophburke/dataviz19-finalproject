@@ -8,13 +8,11 @@ Following are visualizations of the data gleaned by [HarvardX-MITx Person-Course
 
 The first visualization shows the popularity of each course available on the EdX platform in 2013 according to the number of views.
 
-{![final-project1](https://user-images.githubusercontent.com/12277937/67882939-8673c900-fb19-11e9-8c64-cda9aa5be1e6.jpg)}
-(https://beta.vizhub.com/sophburke/74daf58b6ef445da88581d6babafb912?edit=files&file=README.md&mode=full)
+[![final-project1](https://user-images.githubusercontent.com/12277937/67882939-8673c900-fb19-11e9-8c64-cda9aa5be1e6.jpg)](https://beta.vizhub.com/sophburke/74daf58b6ef445da88581d6babafb912?edit=files&file=README.md&mode=full)
 
 This visualization shows how viewership for each course was divided amongst the different countries in which EdX students lived.
 
-[![finalproject2](https://user-images.githubusercontent.com/12277937/67884030-7fe65100-fb1b-11e9-9be0-d71c4a66aaf0.jpg)]
-(https://beta.vizhub.com/sophburke/6fe8867fbdea4792a3972b4b86090cc4?edit=files&file=README.md&mode=full)
+[![finalproject2](https://user-images.githubusercontent.com/12277937/67884030-7fe65100-fb1b-11e9-9be0-d71c4a66aaf0.jpg)](https://beta.vizhub.com/sophburke/6fe8867fbdea4792a3972b4b86090cc4?edit=files&file=README.md&mode=full)
 
 This visualization shows the amount of views per country. The different colors within the bars specify the course.
 
